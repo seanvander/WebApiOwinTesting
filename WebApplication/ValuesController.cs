@@ -3,6 +3,9 @@ using System.Web.Http;
 
 namespace WebApplication
 {
+    /// <summary>
+    /// This is a standard example Web Api controller
+    /// </summary>
     public class ValuesController : ApiController
     {
         // GET api/values 
